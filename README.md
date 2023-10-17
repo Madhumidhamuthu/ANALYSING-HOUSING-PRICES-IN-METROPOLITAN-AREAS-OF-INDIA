@@ -25,4 +25,5 @@ https://drive.google.com/file/d/14sOGVvzYV6zK36kzHG4UoNL0w9-qyXvz/view?usp=drive
 
 PROJECT REPORT LINK
 
+https://docs.google.com/document/d/1bsaCJwjMRWXkzCbPHqfjhNOwXqNR839x/edit?usp=drive_link&ouid=106645851191364857326&rtpof=true&sd=true
 https://docs.google.com/document/d/1bsaCJwjMRWXkzCbPHqfjhNOwXqNR839x/edit?usp=sharing&ouid=106645851191364857326&rtpof=true&sd=true
