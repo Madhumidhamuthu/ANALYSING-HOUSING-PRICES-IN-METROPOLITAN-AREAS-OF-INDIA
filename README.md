@@ -1,7 +1,11 @@
 # ANALYSING-HOUSING-PRICES-IN-METROPOLITAN-AREAS-OF-INDIA
-DASHBOARD AND STORY LINK
+DASHBOARD LINK
 
 https://public.tableau.com/app/profile/madhumidha.muthu
+
+STORY LINK
+
+https://public.tableau.com/app/profile/madhumidha.muthu/viz/story_16964953410560/Story1
 
 VIDEO LINK
 
